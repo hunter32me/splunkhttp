@@ -1,5 +1,5 @@
 [package]
 description = rename HTTP header fied in HTTP log
-tags = ECS
+tags = Splunk HTTP
 version = 0.10
 script_dir = scripts
